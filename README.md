@@ -42,7 +42,6 @@
             <img alt="HTML" src="https://img.shields.io/badge/-Html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
             <img alt="CSS" src="https://img.shields.io/badge/-Css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
             <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-            <img alt="Processing" src="https://img.shields.io/badge/-processing-006699.svg?&style=for-the-badge&logo=processingfoundation&logoColor=white"/>
         </p>
     </div>
     <div id="analysis">
