@@ -21,6 +21,7 @@
     <div id="tools">
         <h2 align="left">🖌 Tools</h2>
         <p>
+            <img alt="Windows" src="https://img.shields.io/badge/windows-i7 13gen%20rtx3070super-999999.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
             <img alt="M1Mac" src="https://img.shields.io/badge/machine-M1%20Mac-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
             <img alt="iPad" src="https://img.shields.io/badge/tablet-ipad%209th%20gen-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
             <img alt="iPhone12ProMax" src="https://img.shields.io/badge/phone-iphone%2012%20pro%20max-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
