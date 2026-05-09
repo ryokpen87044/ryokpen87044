@@ -3,36 +3,13 @@
         <h1>ryokpen87044 🐧</h1>
         <p>
           Welcome to my page! 🫨
-          <br>
-          I am a university student. 😵‍💫
         </p>
-    </div>
-    <div id="status">
-        <a href="https://github.com/ryokpen87044">
-            <img alt="🐧" src="https://github-readme-stats.vercel.app/api?username=ryokpen87044&layout=compact&theme=transparent&hide_border=true&hide=contribs,prs&count_private=true"/>
-        </a>
-        <a href="https://github.com/ryokpen87044">
-            <img alt="🐧" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryokpen87044&layout=compact&theme=transparent&hide_border=true&count_private=true"/>
-        </a>
     </div>
 </div>
 
 <div id="body" align="center">
-    <div id="tools">
-        <h2 align="left">🖌 Tools</h2>
-        <p>
-            <img alt="Windows" src="https://img.shields.io/badge/windows-13700F%203070super-999999.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-            <img alt="M1Mac" src="https://img.shields.io/badge/machine-M1%20Mac-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-            <img alt="iPad" src="https://img.shields.io/badge/tablet-ipad%209th%20gen-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-            <img alt="iPhone12ProMax" src="https://img.shields.io/badge/phone-iphone%2012%20pro%20max-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-            <img alt="iPhone10" src="https://img.shields.io/badge/phone sub-iphone%20X-999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/>
-            <img alt="HHKB_us" src="https://img.shields.io/badge/Keyboard-HHKB%20US-999999.svg?&style=for-the-badge"/>
-            <img alt="ZG01" src="https://img.shields.io/badge/audio interface-ZG01-999999.svg?&style=for-the-badge&logo=yamahacorporation&logoColor=white"/>
-            <img alt="WH-1000XM5" src="https://img.shields.io/badge/Headphone-WH%201000XM5-999999.svg?&style=for-the-badge&logo=Sony&logoColor=white"/>
-        </p>
-    </div>
     <div id="studying">
-        <h2 align="left">📚 Studying</h2>
+        <h2 align="left">📚 Tech Stack</h2>
         <p>
             <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white"/>
             <img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
