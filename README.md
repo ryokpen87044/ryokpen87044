@@ -18,9 +18,6 @@
             <img alt="Java" src="https://img.shields.io/badge/-Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
             <img alt="R" src="https://img.shields.io/badge/-R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
             <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-            <img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/>
-            <img alt="HTML" src="https://img.shields.io/badge/-Html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-            <img alt="CSS" src="https://img.shields.io/badge/-Css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
             <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
         </p>
     </div>
